@@ -1,0 +1,92 @@
+.body{
+    background-color: black;
+    margin: 0;
+        font-family: 'Raleway';
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+    font: medium;
+}
+
+.parrafo-caracteristica{
+    color: white;
+
+}
+
+.iguana-1{
+    width: 399px;
+    height: 237px;
+}
+.parrafo-icono{
+    color: white;
+}
+
+i{
+    color: white;
+}
+
+.section-caracteristicas{
+    background-color: #1E1A13;
+    height: 348px;
+    color: white;
+    text-align: center;
+    padding-top: 4%;
+    font-size: 30px;
+    
+}
+.img-galeria{
+    width: 316px;
+    height: 202px;
+    display: inline-block;
+    float: left;
+    margin-left: 16px;
+    padding-top: 73px;
+
+}
+.contenedor-icono{
+        display: inline-block;
+    float: left;
+    margin-left: 17%;
+    text-align: center;
+    font-size: 30px ;
+}
+.section-galeria{
+    height: 308px;
+    padding-left: 150px;
+    
+}
+.parrafo-footer{
+    color: white;
+    left: 299px;
+    padding-top: 38px;
+    text-align: center;
+}
+.footer{
+    display: block;
+    background-color: #1E1A13;
+    height:102px;
+    
+}
+
+.caracteristica1{
+    color: white;
+    margin-left: 10%;
+}
+
+.caracteristica1 td{
+    top: 876px;
+left: 150px;
+width: 475px;
+height: 197px;
+padding: 1em;
+}
+
+.caracteristica1 img{
+    top: 845px;
+left: 731px;
+width: 399px;
+height: 237px;
+padding: 10em;
+}
