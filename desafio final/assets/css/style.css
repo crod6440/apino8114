@@ -1,0 +1,41 @@
+.navcolor{
+    background-color: rgb(25, 31, 25)
+}
+
+.main{
+    padding-top:10%;
+}
+
+.tamaño-cuppon a img{
+    width: 100px;
+}
+
+.footer{
+    height: 300px;
+}
+
+.boton{
+    text-align: center;
+
+}
+
+.cupon2 img{
+    width: 100px;
+}
+
+.cupon2{
+    text-align: center;
+}
+.border p{
+    border-bottom: 3px;
+    color: green;
+    text-align: center;
+    background-color: black;
+}
+.Ubicacion p{
+    display:inline-block;
+}
+
+.body{
+    background-color: black;
+}
